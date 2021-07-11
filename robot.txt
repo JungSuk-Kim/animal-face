@@ -1,0 +1,4 @@
+User-Agent:*
+Allow: /
+
+Sitemap: http://various-test.xyz/sitemap.xml
