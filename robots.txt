@@ -1,2 +1,4 @@
 User-agent:Yeti
 Allow:/
+
+#DaumWebMasterTool:8868b744106fd38302e0c459dfd0ecc73c4a398c167a7d62aa739fe193411c2e:xRKa+l+476S2AnN6ZCwDjg==
