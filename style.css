@@ -90,14 +90,14 @@ body {
 }
 
 .remove-image {
+  font-size: 1.2rem;
   width: 200px;
   margin: 0;
   color: #fff;
-  background: #cd4535;
+  background: #35465d;
   border: none;
   padding: 10px;
-  border-radius: 4px;
-  border-bottom: 4px solid #b02818;
+  border-radius: 10px;
   transition: all .2s ease;
   outline: none;
   text-transform: uppercase;
