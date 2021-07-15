@@ -325,3 +325,63 @@ body {
     width: 320px;
     margin: 0 auto;
 }
+
+.animal-explain {
+    font-size: 1.5rem;
+}
+.DINOSAUR-animal-title {
+    font-size: 1.8rem;
+    color: #3ba363;
+}
+.DINOSAUR-animal-celeb {
+    color: #3ba363;
+    font-size: 1.2rem;
+}
+.DEER-animal-title {
+    font-size: 1.8rem;
+    color: #3ba363;
+}
+.DEER-animal-celeb {
+    color: #3ba363;
+    font-size: 1.2rem;
+}
+.CAT-animal-title {
+    font-size: 1.8rem;
+    color: #ff6c0a;
+}
+.CAT-animal-celeb {
+    color: #ff6c0a;
+    font-size: 1.2rem;
+}
+.DOG-animal-title {
+    font-size: 1.8rem;
+    color: #548dd4;
+}
+.DOG-animal-celeb {
+    color: #548dd4;
+    font-size: 1.2rem;
+}
+.RABBIT-animal-title {
+    font-size: 1.8rem;
+    color: #e56995;
+}
+.RABBIT-animal-celeb {
+    color: #e56995;
+    font-size: 1.2rem;
+}
+.BEAR-animal-title {
+    font-size: 1.8rem;
+    color: #9b6b43;
+}
+.BEAR-animal-celeb {
+    color: #9b6b43;
+    font-size: 1.2rem;
+}
+.FOX-animal-title {
+    font-size: 1.8rem;
+    color: #31849b;
+}
+.FOX-animal-celeb {
+    color: #31849b;
+    font-size: 1.2rem;
+}
